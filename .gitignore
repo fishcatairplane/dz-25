@@ -1,1 +1,7 @@
 /.idea/
+insert into customers (fisrt_name, last_name)
+values
+(Hanna, Motorna),
+(Pedro, Paskal),
+(Igor Spitca),
+(Peter, Black);Selct
